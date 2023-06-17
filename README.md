@@ -1,11 +1,11 @@
-About r-hmeasure
-================
+About r-hmeasure-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-hmeasure-feedstock/blob/main/LICENSE.txt)
 
 Home: http://www.hmeasure.net
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-hmeasure-feedstock/blob/main/LICENSE.txt)
 
 Summary: Classification performance metrics that are derived from the ROC curve of a classifier. The package includes the H-measure performance metric as described in <http://link.springer.com/article/10.1007/s10994-009-5119-5>, which computes the minimum total misclassification cost, integrating over any uncertainty about the relative misclassification costs, as per a user-defined prior. It also offers a one-stop-shop for other scalar metrics of performance, including sensitivity, specificity and many others, and also offers plotting tools for ROC curves and related statistics.
 
